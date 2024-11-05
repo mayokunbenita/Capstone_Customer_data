@@ -44,15 +44,8 @@ EDA involved the exploring of Data to answer some questions about the data such 
 
 ### Project Analysis and Visualization
 Most Popular Suscription Type
-![image](https://github.com/user-attachments/assets/4e6f9b51-228e-43a7-818c-a5582a807eaa)
 
 Total Number of Customer in Each Region
-
-		
-		
-		
-		
-		
-		
-![image](https://github.com/user-attachments/assets/cf38a584-e182-43f6-be24-ed2ebf59a9d5)
+	
+![Uploading image.png…]()
 
