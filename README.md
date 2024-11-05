@@ -1,44 +1,58 @@
-# Capstone_Customer_data
-
-This project aims to analyse customer data for a subscription service, aiming to understand Customer behavior, identify subscription patterns and analyse trend cancellations and renewals.  
-
-## Tools Used# Capstone_Sales_Project
-
-### Project Title 
+# Project Title
+## Capstone Customer Project
 ---
-Sales Performance Analysis for a Retail Store
 
 ### Project Overview
----
-This project focuses on the analysis of a Retail Store's Sale Performance. The aim is to draw actionable insights regarding Product Perfomance, Regional Sales and Monthly Trends.  
 
-### Data Sources
+This project focuses on the analysis for the Customer Segment of a Service Subscription.  The aim is to analyse their data to draw insights on:
+- Customer Behaviour
+- Track Subscription patterns (Types and Duration)
+- Identify Key Trends in cancellation and Renewal of Subscriptions
 ---
-The primary source of Data used is Capstone Sales Data.csv which is attached in my repository [CUSTOMERDATACSV.csv](https://github.com/user-attachments/files/17618421/CUSTOMERDATACSV.csv)
 
 ### Tools Used
----
+
 - Miscrosoft Excel 
-   1. for Data Cleaning
-   2. For Analysi
-   3. For Data Visualisation
-- SQL - Structured Querry Language for querring
-- Power BI for Visualisation
-- Github for Portfolio Building
+   1. For Data Cleaning.
+   2. For Analysis.
+   3. For Data Visualisation.
+- SQL - Structured Querry Language for querring.
+- Power BI for Visualisation.
+- Github for Portfolio Building.
+---
+
+### Data Sources
+
+The primary source of Data used is Capstone Sales Data.csv  is here: [CUSTOMERDATACSV.csv](https://github.com/user-attachments/files/17618421/CUSTOMERDATACSV.csv)
+
+---
 
 ### Data Cleaning and Preparation
----
+
 For Data Cleaning and Preparation, we performedthe following actions;
 1. Removing of Duplicate Data on Excel.
-2. Calculated the sales figure to work with.
+2. Calculated the subscriptin Duration figure to work with.
+---
 
 ### Exploratory Data Analysis
 ---
 EDA involved the exploring of Data to answer some questions about the data such as:
-- what are the Top Selling Products
-- What is the Regional Performance
-- What is the Monthly Sales Trend
+- What is the Customer Behaviour Towards the subscription?
+- What is their Subscription pattern like?
+- What were the Key Trends in cancellation and Renewal of Subscriptions?
+---
 
-### Data Analysis and Visualization
+### Project Analysis and Visualization
+Most Popular Suscription Type
+![image](https://github.com/user-attachments/assets/4e6f9b51-228e-43a7-818c-a5582a807eaa)
 
+Total Number of Customer in Each Region
+
+		
+		
+		
+		
+		
+		
+![image](https://github.com/user-attachments/assets/cf38a584-e182-43f6-be24-ed2ebf59a9d5)
 
